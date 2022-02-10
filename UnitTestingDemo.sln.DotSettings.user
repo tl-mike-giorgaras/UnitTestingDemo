@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ad125b9_002D7072_002D409d_002D9922_002Db0d674d9ca9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;Project Location="/home/mike_giorgaras/RiderProjects/UnitTestingDemo/UnitTestingDemo.UnitTests" Presentation="&amp;lt;UnitTestingDemo.UnitTests&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::5B3EC0CF-3B10-4AEB-8B06-5F073A83787D::net6.0::UnitTestingDemo.UnitTests.WeatherForecastControllerTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f4f5c82e_002D522a_002D46bd_002D9eb2_002Dfcf9a676aa84/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_return_the_right_number_of_forecasts" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/mike_giorgaras/RiderProjects/UnitTestingDemo/UnitTestingDemo.UnitTests" Presentation="&amp;lt;UnitTestingDemo.UnitTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
